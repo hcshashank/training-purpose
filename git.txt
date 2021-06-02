@@ -1,0 +1,14 @@
+html basic stracture
+
+<html>
+   <head>
+      <title>title name<title/>
+      <meta charset "utf-8">
+      <meta name "keyword" content "">
+   <head>
+   <body> this is my content 
+     -----
+     -------
+     --------
+   <body/>
+<html/>
